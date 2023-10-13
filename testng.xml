@@ -1,0 +1,8 @@
+<suite name="TestNgFramework">
+    <test name="TestNgFramework">
+        <classes>
+            <class name="com.TestNGpackage.SampleTestNGprogram"/>
+            <class name="com.TestNGpackage.TestAnnationExecution1"/>
+        </classes>
+    </test>
+</suite>
